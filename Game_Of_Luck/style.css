@@ -62,7 +62,7 @@ h3 {
     margin: 0 5px 0;
 }
 
-.tag.highligth {
+.tag.highlight {
     background-color: var(--red-color);
     color: #333;
 }
